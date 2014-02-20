@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [silvinci/sanitize-arguments](http://github.com/silvinci/sanitize-arguments). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/silvinci-sanitize-arguments`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 ![sanitize-arguments — Order arguments with ease!](http://i.imgur.com/SAhDs.png)
 
 [![Build Status](https://secure.travis-ci.org/silvinci/node-sanitize-arguments.png?branch=master)](https://travis-ci.org/silvinci/node-sanitize-arguments)
